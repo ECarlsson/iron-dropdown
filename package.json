@@ -2,6 +2,7 @@
   "name": "@polymer/iron-dropdown",
   "private": true,
   "description": "An unstyled element that works similarly to a native browser select",
+  "version": "0.0.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/PolymerElements/iron-dropdown"
